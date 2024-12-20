@@ -23,6 +23,11 @@ const Testimonials = () => {
       feedback: 'The serene atmosphere and skilled therapists make Soukhya the best Ayurvedic center I’ve visited.',
       location: 'Kerala, India',
     },
+    {
+        name : 'Akarsh K R',
+        feedback : 'Nice place where the hospital is located, I love the place and treatment also',
+        location: 'Kerala, India'
+    }
   ];
 
   return (
